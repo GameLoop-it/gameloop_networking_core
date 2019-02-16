@@ -1,0 +1,8 @@
+[package]
+name = "gameloop_networking_core"
+version = "0.1.0"
+authors = ["Emanuele Manzione <m4nu.91@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+mio = "0.6"
